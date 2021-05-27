@@ -1,4 +1,4 @@
-# Hastkala---E-commerce-frontend-Template
+# Hastkala--E-commerce-frontend-Template
 
 This website template is for an e-commerce website which consists of the handicraft
 items and how to order them. We have created sample templates of a page which
